@@ -12,7 +12,7 @@ public class Main {
 		//aici codul de lupta.
 		
 		IFighter orderus1 = Builder.orderusBuilder("orderus");
-		IFighter beast1 = Builder.beastBuilder("beast");
+		IFighter beast1 = Builder.beastBuilder("beaskt");
 		IFighter randomZombie = Builder.zombieBuilder("zombie", -100);
 		
 		Clash randomClash = new Clash(orderus1, randomZombie);
