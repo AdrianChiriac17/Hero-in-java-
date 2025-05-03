@@ -7,6 +7,7 @@ public class Shield implements IShield{
 	public Shield(double defense) {
 		// TODO Auto-generated constructor stub
 		this.defense=defense;
+		//hello github from pc
 	}
 	
 	
